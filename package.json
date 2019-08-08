@@ -1,0 +1,15 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "riyaz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.0",
+    "dotenv": "8.0.0"
+  }
+}
